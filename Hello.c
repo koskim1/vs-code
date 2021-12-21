@@ -6,5 +6,6 @@ int main(void){
     printf("ok hanguk mal no?\n");
 
     printf("diffrence?\n");
+    printf("이건 한국말 되나?\n");
     return 0;
 }
